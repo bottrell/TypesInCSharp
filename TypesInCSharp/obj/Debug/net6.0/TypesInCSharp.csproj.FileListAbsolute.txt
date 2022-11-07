@@ -1,0 +1,15 @@
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.csproj.AssemblyReference.cache
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.AssemblyInfoInputs.cache
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.AssemblyInfo.cs
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.csproj.CoreCompileInputs.cache
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/bin/Debug/net6.0/TypesInCSharp
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/bin/Debug/net6.0/TypesInCSharp.deps.json
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/bin/Debug/net6.0/TypesInCSharp.runtimeconfig.json
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/bin/Debug/net6.0/TypesInCSharp.dll
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/bin/Debug/net6.0/TypesInCSharp.pdb
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.dll
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/refint/TypesInCSharp.dll
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.pdb
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/TypesInCSharp.genruntimeconfig.cache
+/Users/bottrell/Desktop/Projects/TypesInCSharp/TypesInCSharp/obj/Debug/net6.0/ref/TypesInCSharp.dll
